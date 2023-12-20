@@ -2,130 +2,282 @@
   {
     "name": "accent chair",
     "price": 25,
+    "featured": true,
+    "images": [
+    {
+       "width": 1000,
+      "height": 667,
+      "url": "https://www.course-api.com/images/store/product-2.jpeg",
+      "filename": "product-4.jpeg",
+      "size": 49641,
+      "type": "image/jpeg",
+           "thumbnails": {
+        "small": {
+          "url": "https://www.course-api.com/images/store/product-2.jpeg",
+          "width": 54,
+          "height": 36
+        },
+        "large": {
+          "url": "https://www.course-api.com/images/store/product-2.jpeg",
+          "width": 768,
+          "height": 512
+        },
+        "full": {
+          "url": "https://www.course-api.com/images/store/product-2.jpeg",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    },
+        {      
+      "width": 1000,
+      "height": 667,
+      "url": "https://www.course-api.com/images/store/extra-product-1.jpeg",
+      "filename": "extra-1.jpeg",
+      "size": 102108,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://www.course-api.com/images/store/extra-product-1.jpeg",
+          "width": 54,
+          "height": 36
+        },
+        "large": {
+          "url": "https://www.course-api.com/images/store/extra-product-1.jpeg",
+          "width": 768,
+          "height": 512
+        },
+        "full": {
+          "url": "https://www.course-api.com/images/store/extra-product-1.jpeg",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    },
+       {      
+      "width": 1000,
+      "height": 714,
+      "url": "https://www.course-api.com/images/store/extra-product-2.jpeg",
+      "filename": "extra-2.jpeg",
+      "size": 84418,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://www.course-api.com/images/store/extra-product-2.jpeg",
+          "width": 50,
+          "height": 36
+        },
+        "large": {
+          "url": "https://www.course-api.com/images/store/extra-product-2.jpeg",
+          "width": 717,
+          "height": 512
+        },
+        "full": {
+          "url": "https://www.course-api.com/images/store/extra-product-2.jpeg",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    },
+        {      
+      "width": 1000,
+      "height": 650,
+      "url": "https://www.course-api.com/images/store/extra-product-3.jpeg",
+      "filename": "extra-3.jpeg",
+      "size": 107838,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://www.course-api.com/images/store/extra-product-3.jpeg",
+          "width": 55,
+          "height": 36
+        },
+        "large": {
+          "url": "https://www.course-api.com/images/store/extra-product-3.jpeg",
+          "width": 788,
+          "height": 512
+        },
+        "full": {
+          "url": "https://www.course-api.com/images/store/extra-product-3.jpeg",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    },
+       {      
+      "width": 1000,
+      "height": 667,
+      "url": "https://www.course-api.com/images/store/extra-product-4.jpeg",
+      "filename": "extra-4.jpeg",
+      "size": 99481,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://www.course-api.com/images/store/extra-product-4.jpeg",
+          "width": 54,
+          "height": 36
+        },
+        "large": {
+          "url": "https://www.course-api.com/images/store/extra-product-4.jpeg",
+          "width": 768,
+          "height": 512
+        },
+        "full": {
+          "url": "https://www.course-api.com/images/store/extra-product-4.jpeg",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }    
+    ], 
+    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+    "colors": ["#ff0000", "#00ff00", "#0000ff"],
     "company": "marcos",
-    "rating": 4
+    "stock": 3,
+    "stars": 4.9,
+    "reviews": 25,
+    "category": "office",
+    "shipping": true
   },
-  {
-    "name": "albany sectional",
-    "price": 109,
-    "company": "liddy",
-    "rating": 5
-  },
-  {
-    "name": "albany table",
-    "price": 309,
-    "company": "liddy",
-    "rating": 4.9
-  },
-  {
-    "name": "armchair",
-    "price": 125,
-    "company": "marcos",
-    "rating": 4.8
-  },
-  {
-    "name": "bar stool",
-    "price": 40,
-    "company": "liddy",
-    "rating": 4.6
-  },
-  {
-    "name": "dining table",
-    "price": 42,
-    "company": "ikea",
-    "rating": 4.55
-  },
-  {
-    "name": "emperor bed",
-    "price": 23,
-    "company": "ikea"
-  },
-  {
-    "name": "entertainment center",
-    "price": 59,
-    "featured": true,
-    "company": "caressa"
-  },
-  {
-    "name": "high-back bench",
-    "price": 39,
-    "featured": true,
-    "company": "ikea"
-  },
-
-  {
-    "name": "leather sofa",
-    "price": 99,
-    "company": "caressa"
-  },
-  {
-    "name": "modern bookshelf",
-    "price": 31,
-    "featured": true,
-    "company": "caressa"
-  },
-  {
-    "name": "modern poster",
-    "price": 30,
-    "company": "liddy"
-  },
-  {
-    "name": "shelf",
-    "price": 30,
-    "company": "ikea"
-  },
-  {
-    "name": "simple chair",
-    "price": 109,
-    "company": "liddy"
-  },
-  {
-    "name": "sofa set",
-    "price": 129,
-    "company": "marcos"
-  },
-  {
-    "name": "suede armchair",
-    "price": 15,
-    "company": "caressa"
-  },
-  {
-    "name": "utopia sofa",
-    "price": 79,
-    "featured": true,
-    "company": "liddy"
-  },
-  {
-    "name": "vase table",
-    "price": 120,
-    "featured": true,
-    "company": "marcos"
-  },
-  {
-    "name": "wooden bed",
+{
+    "name": "accent chair",
     "price": 25,
-    "company": "ikea"
-  },
-  {
-    "name": "wooden desk",
-    "price": 15,
-    "company": "ikea"
-  },
-  {
-    "name": "wooden desk",
-    "price": 40,
-    "company": "ikea"
-  },
-  {
-    "name": "wooden table",
-    "price": 23,
     "featured": true,
-    "company": "caressa"
-  },
-  {
-    "name": "a first wooden table",
-    "price": 23,
-    "featured": true,
-    "company": "caressa"
+    "images": [
+    {
+       "width": 1000,
+      "height": 667,
+      "url": "https://www.course-api.com/images/store/product-2.jpeg",
+      "filename": "product-4.jpeg",
+      "size": 49641,
+      "type": "image/jpeg",
+           "thumbnails": {
+        "small": {
+          "url": "https://www.course-api.com/images/store/product-2.jpeg",
+          "width": 54,
+          "height": 36
+        },
+        "large": {
+          "url": "https://www.course-api.com/images/store/product-2.jpeg",
+          "width": 768,
+          "height": 512
+        },
+        "full": {
+          "url": "https://www.course-api.com/images/store/product-2.jpeg",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    },
+        {      
+      "width": 1000,
+      "height": 667,
+      "url": "https://www.course-api.com/images/store/extra-product-1.jpeg",
+      "filename": "extra-1.jpeg",
+      "size": 102108,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://www.course-api.com/images/store/extra-product-1.jpeg",
+          "width": 54,
+          "height": 36
+        },
+        "large": {
+          "url": "https://www.course-api.com/images/store/extra-product-1.jpeg",
+          "width": 768,
+          "height": 512
+        },
+        "full": {
+          "url": "https://www.course-api.com/images/store/extra-product-1.jpeg",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    },
+       {      
+      "width": 1000,
+      "height": 714,
+      "url": "https://www.course-api.com/images/store/extra-product-2.jpeg",
+      "filename": "extra-2.jpeg",
+      "size": 84418,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://www.course-api.com/images/store/extra-product-2.jpeg",
+          "width": 50,
+          "height": 36
+        },
+        "large": {
+          "url": "https://www.course-api.com/images/store/extra-product-2.jpeg",
+          "width": 717,
+          "height": 512
+        },
+        "full": {
+          "url": "https://www.course-api.com/images/store/extra-product-2.jpeg",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    },
+        {      
+      "width": 1000,
+      "height": 650,
+      "url": "https://www.course-api.com/images/store/extra-product-3.jpeg",
+      "filename": "extra-3.jpeg",
+      "size": 107838,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://www.course-api.com/images/store/extra-product-3.jpeg",
+          "width": 55,
+          "height": 36
+        },
+        "large": {
+          "url": "https://www.course-api.com/images/store/extra-product-3.jpeg",
+          "width": 788,
+          "height": 512
+        },
+        "full": {
+          "url": "https://www.course-api.com/images/store/extra-product-3.jpeg",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    },
+       {      
+      "width": 1000,
+      "height": 667,
+      "url": "https://www.course-api.com/images/store/extra-product-4.jpeg",
+      "filename": "extra-4.jpeg",
+      "size": 99481,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://www.course-api.com/images/store/extra-product-4.jpeg",
+          "width": 54,
+          "height": 36
+        },
+        "large": {
+          "url": "https://www.course-api.com/images/store/extra-product-4.jpeg",
+          "width": 768,
+          "height": 512
+        },
+        "full": {
+          "url": "https://www.course-api.com/images/store/extra-product-4.jpeg",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }    
+    ], 
+    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+    "colors": ["#ff0000", "#00ff00", "#0000ff"],
+    "company": "caressa",
+    "stock": 3,
+    "stars": 4.9,
+    "reviews": 25,
+    "category": "dining",
+    "shipping": true
   }
+
 ]

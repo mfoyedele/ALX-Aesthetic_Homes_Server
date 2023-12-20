@@ -8,11 +8,17 @@ const getAllProductsStatic = async (req, res) => {
   res.status(200).json({ products, nbHits: products.length });
 };
 const getAllProducts = async (req, res) => {
-  const { featured, company, name, sort, fields, numericFilters } = req.query;
+  const { featured, shipping, category, company, name, sort, fields, numericFilters } = req.query;
   const queryObject = {};
 
   if (featured) {
     queryObject.featured = featured === 'true' ? true : false;
+  }
+  if (shipping) {
+    queryObject.featured = featured === 'true' ? true : false;
+  }
+  if (category) {
+    queryObject.category = category;
   }
   if (company) {
     queryObject.company = company;
